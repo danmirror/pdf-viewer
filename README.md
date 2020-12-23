@@ -1,2 +1,2 @@
 # pdf viewer js
-> repo pdf viewers
+> repo pdf viewer
