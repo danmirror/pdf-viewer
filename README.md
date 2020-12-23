@@ -1,2 +1,2 @@
 # pdf viewer 
-> repo pdf viewer
+> repo pdf viewers
